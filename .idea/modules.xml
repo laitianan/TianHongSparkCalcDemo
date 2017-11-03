@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tianhongsparkcalc.iml" filepath="$PROJECT_DIR$/.idea/modules/tianhongsparkcalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tianhongsparkcalc-build.iml" filepath="$PROJECT_DIR$/.idea/modules/tianhongsparkcalc-build.iml" />
+    </modules>
+  </component>
+</project>
